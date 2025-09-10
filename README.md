@@ -2,7 +2,7 @@
 -  I’m interested in CS, art, technology and making friends
 -  I’m currently learning how to code
 -  I’m looking to collaborate on ...
--  How to reach me 
+-  How to reach me: 
   
 
 <!---
