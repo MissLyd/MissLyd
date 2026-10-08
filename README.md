@@ -1,5 +1,5 @@
 # 🌸 Hi, i'm Lydia!
-❀ I’m a 2nd year computer science student at the University of Science and Technology Houari Boumediene in Algiers.<br/>
+❀ I’m a 3rd year computer science student at the University of Science and Technology Houari Boumediene in Algiers.<br/>
 ❀ I share about my journey in tech and my progress.<br/>
 ❀ Currently learning about Machine Learning and 3D modeling. <br/>
 
